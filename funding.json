@@ -1,0 +1,23 @@
+{
+  "name": "TarisaiToolBox",
+  "description": "A digital toolkit by No More Tears Zimbabwe to help girls securely report GBV, access services, and build digital identity.",
+  "organization": "No More Tears Zimbabwe",
+  "website": "https://nomoretears.org.zw",
+  "contact": "info@nomoretears.org.zw",
+  "funding_goal": {
+    "currency": "USD",
+    "amount": 50000,
+    "description": "Seed funding to pilot the TarisaiToolBox GBV reporting system across Mbire, Muzarabani, and Lower Mt Darwin districts."
+  },
+  "support_links": [
+    {
+      "label": "Donate via PayPal",
+      "url": "https://www.paypal.me/nomoretearszim"
+    },
+    {
+      "label": "Contact for Sponsorship",
+      "url": "mailto:funding@nomoretears.org.zw"
+    }
+  ],
+  "tags": ["GBV", "Digital Identity", "Girls Empowerment", "Zimbabwe", "Nonprofit", "Social Impact"]
+}
